@@ -16,3 +16,5 @@ A linguagem considerada é constituída por strings sobre o alfabeto `{0,1}`, se
 A expressão regular utilizada é:
 
 [Resolução](./resolucao.txt)
+
+A ideia central da expressão regular consiste em permitir uma sequência inicial arbitrária de 1s e, a partir do momento em que ocorre o primeiro 0, restringir as ocorrências seguintes de 1 ao bloco 01. Desta forma, após um 0, nunca podem surgir dois 1s consecutivos, o que garante que a substring proibida 011 não pode ocorrer.
