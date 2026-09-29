@@ -5,7 +5,7 @@
 **Nome:** Luís Pereira Oliveira Ferreira  
 **ID:** A108648
 
-![Foto](./IMG_3891.jpg)
+<img src="./IMG_3891.jpg" width="200">
 
 ## Resumo
 
