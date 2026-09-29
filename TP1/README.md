@@ -15,4 +15,4 @@ A linguagem considerada é constituída por strings sobre o alfabeto `{0,1}`, se
 
 A expressão regular utilizada é:
 
-[Resolução](./TP1/resolucao.txt)
+[Resolução](./resolucao.txt)
