@@ -15,7 +15,4 @@ A linguagem considerada é constituída por strings sobre o alfabeto `{0,1}`, se
 
 A expressão regular utilizada é:
 
-```
-## Lista de resultados
-
-- [Resolução](./resolucao.txt)
+[Resolução](./TP1/resolucao.txt)
